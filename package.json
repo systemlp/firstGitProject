@@ -1,0 +1,22 @@
+{
+  "name": "first-git",
+  "version": "1.0.0",
+  "description": "git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/systemlp/firstGitProject.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "liupeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/systemlp/firstGitProject/issues"
+  },
+  "homepage": "https://github.com/systemlp/firstGitProject#readme"
+}
